@@ -1,2 +1,2 @@
 # MLMarathon
-This is a place for practice Machine learning marathon.
+This is a place for practicing Machine learning marathon.
